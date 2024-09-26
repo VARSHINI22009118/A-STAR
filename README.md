@@ -1,6 +1,6 @@
 <h1>Ex 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Mathiyazhagan A     </h3>
-<h3>Register Number:  212222240063        </h3>
+<h3>Name: VARSHINI S A    </h3>
+<h3>Register Number:  212222100059       </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
