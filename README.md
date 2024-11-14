@@ -109,7 +109,7 @@ while len(open_set) > 0:
         path = []
         while parents[n] != n:
             path.append(n)
-            n = parents[n]
+            n = parents[n] 
         path.append(start_node)
         path.reverse()
         print('Path found: {}'.format(path))
