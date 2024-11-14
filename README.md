@@ -1,12 +1,16 @@
 <h1>Ex 4 : Implement A* search algorithm for a Graph</h1> 
+<BR>
 <h3>Name: VARSHINI S A    </h3>
 <h3>Register Number:  212222100059       </h3>
+<BR>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<BR>
 <H3>Algorithm:</H3>
+<BR>
 
 ``````
-// A* Search Algorithm
+
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
@@ -50,6 +54,7 @@
 
 ``````
 ## PROGRAM:
+<BR>
 ```
 from collections import defaultdict
 H_dist ={}
